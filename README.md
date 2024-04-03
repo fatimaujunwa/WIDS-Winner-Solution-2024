@@ -2,6 +2,9 @@
 We are thrilled to announce that our team secured first place in this challenge, and so we're excited to share the strategies that propelled us to this success.
 
 Our approach was centered on data preprocessing, feature engineering, and model ensemble techniques. Here's an overview of how we tackled the challenge:
+## Challenge Task
+Challenge task:
+You will be asked to predict if the patients received metastatic cancer diagnosis within 90 days of screening.
 
 ## Data Preprocessing
 We recognized the potential of the location features to introduce noise rather than valuable predictive power, so we made the decision to drop most of these features. However, we retained pollutant features (NO2, ozone, and PM25).
